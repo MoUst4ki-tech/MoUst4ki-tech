@@ -1,4 +1,4 @@
-# Salut ! Moi c'est MoUst4ki-tech 👋
+# Salut ! Moi c'est MoUst4ki 👋
 
 ### 👨‍💻 Développeur Passionné
 Je crée des projets et j'explore de nouvelles technologies. Bienvenue sur mon espace GitHub !
