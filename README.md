@@ -14,16 +14,6 @@ Voici les technologies que j'utilise pour mes projets :
 </a>
 </p>
 
----
-
-### 📈 Statistiques GitHub
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoUst4ki-tech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoUst4ki-tech&layout=compact&theme=dracula" />
-</p>
-
----
-
 ### 🎯 Mes Objectifs
 - 🚀 Perfectionner mes compétences en développement.
 - 🏗️ Construire des applications utiles et innovantes.
