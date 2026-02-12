@@ -23,7 +23,9 @@ Passionné par l'alliance entre le **logiciel** et le **matériel**, je suis act
     <img src="https://skillicons.dev/icons?i=c,js,py,html,css,linux,git,github,vscode" />
 </a>
 </p>
+
 ---
+
 ## 🌟 Expériences & Engagement
 - **Stage IT @ SCC France :** Découverte des infrastructures réseaux et maintenance.
 - **Engagement Social :** Bénévolat à Lourdes (Accompagnement de personnes malades) et stage en EHPAD.
