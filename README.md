@@ -1,9 +1,5 @@
 # 👨‍💻 Noé Marchal | Étudiant Epitech & Maker
 
-<p align="center">
-  <img src="images/moi.jpg" alt="Noé Marchal" width="150" style="border-radius: 50%">
-</p>
-
 ## 🚀 À propos de moi
 Passionné par l'alliance entre le **logiciel** et le **matériel**, je suis actuellement étudiant en 1ère année à **Epitech Technology** (Lille). Mon profil de "Maker" me pousse à explorer autant la programmation système que l'IoT et le hardware.
 
