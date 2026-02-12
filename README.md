@@ -18,7 +18,11 @@ Passionné par l'alliance entre le **logiciel** et le **matériel**, je suis act
 ### 🔌 Hardware & IoT
 - **Microcontrôleurs:** Raspberry Pi, Arduino
 - **Technologies:** NFC (NTAG215), Domotique, Automatisation
-
+<p align="left">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js,py,html,css,linux,git,github,vscode" />
+</a>
+</p>
 ---
 
 ## 📁 Projets Phares
