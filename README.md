@@ -24,18 +24,6 @@ Passionné par l'alliance entre le **logiciel** et le **matériel**, je suis act
 </a>
 </p>
 ---
-
-## 📁 Projets Phares
-
-| Projet | Description | Stack |
-| :--- | :--- | :--- |
-| **cloud_server_v1** | Serveur personnel sécurisé sous Nextcloud pour s'émanciper des GAFAM. | RPi 4, Linux, Apache |
-| **epicuvin_app** | Gestionnaire de cave à vin intelligent avec base de données cloud. | JS (Async/Await), Google API |
-| **nfc_automation.py** | Scripts Python déclenchant des actions via tags NFC (iOS Shortcuts). | Python, NFC, IoT |
-| **web_mini_games** | Labo d'expérimentations JS Vanilla (Taptastic, TicTacToe). | JS Vanilla, DOM Manipulation |
-
----
-
 ## 🌟 Expériences & Engagement
 - **Stage IT @ SCC France :** Découverte des infrastructures réseaux et maintenance.
 - **Engagement Social :** Bénévolat à Lourdes (Accompagnement de personnes malades) et stage en EHPAD.
