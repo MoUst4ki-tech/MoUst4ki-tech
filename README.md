@@ -49,7 +49,6 @@ Passionné par l'alliance entre le **logiciel** et le **matériel**, je suis act
 
 ## 📫 Me contacter
 - **LinkedIn :** [Noé Marchal](https://fr.linkedin.com/in/noé-marchal-21221a27b)
-- **Instagram :** [@noe__marchal](https://www.instagram.com/noe__marchal)
 - **Email :** noemarchal59@gmail.com
 
 ---
