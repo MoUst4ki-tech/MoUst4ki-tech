@@ -5,15 +5,15 @@ Passionné par l'alliance entre le **logiciel** et le **matériel**, je suis act
 
 * 📍 **Localisation :** Lille, France
 * 🎓 **Formation :** Programme Grande École Epitech (Promo 2030)
-* 🛠️ **Philosophie :** "On n'a rien sans rien" — Transformer la curiosité en code et le bois en projets.
+* 🛠️ **Philosophie :** "On n'a rien sans rien" — Transformer la curiosité en code.
 
 ---
 
 ## 🛠 Stack Technique
 
 ### 💻 Software
-- **Languages:** Python, C, JavaScript (ES6+), HTML5/CSS3 (Glassmorphism UI)
-- **Outils:** Linux (Unix), Git/GitHub, REST API, Google Apps Script
+- **Languages:** Python, C
+- **Outils:** Linux (Unix), Git/GitHub
 
 ### 🔌 Hardware & IoT
 - **Microcontrôleurs:** Raspberry Pi, Arduino
@@ -32,7 +32,7 @@ Passionné par l'alliance entre le **logiciel** et le **matériel**, je suis act
 - **Délégué de classe :** 3 ans d'expérience en leadership et médiation au Lycée Ozanam.
 
 ## 🏀 Hobbies
-- **Maker :** Travail du bois et bricolage hardware.
+- **Maker :** bricolage hardware.
 - **Sport :** Basket-ball (9 ans de club), Kite Surf, Athlétisme.
 
 ---
@@ -42,4 +42,4 @@ Passionné par l'alliance entre le **logiciel** et le **matériel**, je suis act
 - **Email :** noemarchal59@gmail.com
 
 ---
-<p align="center"><i>Dernière mise à jour du système : Février 2025</i></p>
+<p align="center"><i>Dernière mise à jour du système : Juillet 2026</i></p>
