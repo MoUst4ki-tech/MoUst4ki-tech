@@ -20,7 +20,7 @@ Passionné par l'alliance entre le **logiciel** et le **matériel**, je suis act
 - **Technologies:** NFC (NTAG215), Domotique, Automatisation
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,py,html,css,linux,git,github,vscode,nix,ubuntu,debian" />
+    <img src="https://skillicons.dev/icons?i=c,js,py,html,css,linux,git,github,vscode,nix,ubuntu,debian,arduino,raspberrypi" />
 </a>
 </p>
 
